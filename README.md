@@ -38,9 +38,9 @@ I'm a Python Developer at Linescripts Software Pvt Ltd, passionate about craftin
 | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) | ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) | | | ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) |
 
 # 📊 GitHub Stats:
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mubin-Shaikh&theme=radical&hide_border=false&include_all_commits=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mubin-Shaikh&theme=radical&hide_border=false) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SurakshaMoolya&theme=radical&hide_border=false&include_all_commits=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SurakshaMoolya&theme=radical&hide_border=false) |
 |---|---|
-| ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Mubin-Shaikh&limit=5&theme=radical&combine_all_yearly_contributions=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mubin-Shaikh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
+| ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=SurakshaMoolya&limit=5&theme=radical&combine_all_yearly_contributions=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SurakshaMoolya&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
 
 
 ## 🏆 GitHub Trophies
@@ -50,8 +50,3 @@ I'm a Python Developer at Linescripts Software Pvt Ltd, passionate about craftin
 ---
 [![](https://visitcount.itsvg.in/api?id=SurakshaMoolya&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surakshamoolya&show_icons=true&locale=en&layout=compact" alt="surakshamoolya" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surakshamoolya&show_icons=true&locale=en" alt="surakshamoolya" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surakshamoolya&" alt="surakshamoolya" /></p>
