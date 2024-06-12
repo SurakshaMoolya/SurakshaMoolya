@@ -23,7 +23,7 @@ I'm a Python Developer at Linescripts Software Pvt Ltd, passionate about craftin
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/suraksha-moolya-63b34a1ba/) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/u/SurakshaM/)
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white&style=for-the-badge)](mailto:sk.surakshamoolya10@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white&style=for-the-badge)](mailto:surakshamoolya10@gmail.com)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%230B0B0B.svg?logo=geeksforgeeks&logoColor=white&style=for-the-badge)](https://www.geeksforgeeks.org/user/surakshamaswa/)
 
 
